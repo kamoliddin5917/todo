@@ -1,0 +1,15 @@
+{
+  "name": "todos_bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pui-css-autocomplete css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pui-css-autocomplete": "^8.3.3"
+  }
+}

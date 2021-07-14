@@ -1,0 +1,8 @@
+.form{
+  box-shadow: -5px 5px rgba(0,0,0,.5);
+
+  @media only screen and(max-width: 780px){
+    width: 100% !important;
+    margin-top: 60px !important;
+  }
+}
